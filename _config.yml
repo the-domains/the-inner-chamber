@@ -1,7 +1,7 @@
 name: The Inner Chamber
 favicon: null
-layout_spectrum: 0.8314611162059009
-typography_spectrum: 0.21864359406754375
+layout_spectrum: 1
+typography_spectrum: 0.42093
 cta:
   domain: null
   bucket: null
